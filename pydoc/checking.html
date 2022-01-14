@@ -1,0 +1,78 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><head><title>Python: module checking</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head><body bgcolor="#f0f0f8">
+
+<table width="100%" cellspacing=0 cellpadding=2 border=0 summary="heading">
+<tr bgcolor="#7799ee">
+<td valign=bottom>&nbsp;<br>
+<font color="#ffffff" face="helvetica, arial">&nbsp;<br><big><big><strong>checking</strong></big></big></font></td
+><td align=right valign=bottom
+><font color="#ffffff" face="helvetica, arial"><a href=".">index</a><br><a href="file:/Users/vittorialazzer/Desktop/Art/checking.py">/Users/vittorialazzer/Desktop/Art/checking.py</a></font></td></tr></table>
+    <p><tt>This&nbsp;module&nbsp;focuses&nbsp;on&nbsp;checking&nbsp;if&nbsp;the&nbsp;input<br>
+given&nbsp;by&nbsp;the&nbsp;user&nbsp;is&nbsp;present&nbsp;in&nbsp;our&nbsp;database&nbsp;(csv&nbsp;file)<br>
+that&nbsp;contains&nbsp;information&nbsp;of&nbsp;artists&nbsp;and&nbsp;paintings.<br>
+It&nbsp;contains&nbsp;two&nbsp;functions&nbsp;where&nbsp;the&nbsp;user&nbsp;inputs&nbsp;the&nbsp;name&nbsp;of<br>
+the&nbsp;artist&nbsp;or&nbsp;the&nbsp;painting&nbsp;to&nbsp;know&nbsp;whether&nbsp;they&nbsp;are&nbsp;already<br>
+present&nbsp;in&nbsp;the&nbsp;"artists_paintings.csv&nbsp;file"&nbsp;respectively.</tt></p>
+<p>
+<table width="100%" cellspacing=0 cellpadding=2 border=0 summary="section">
+<tr bgcolor="#aa55cc">
+<td colspan=3 valign=bottom>&nbsp;<br>
+<font color="#ffffff" face="helvetica, arial"><big><strong>Modules</strong></big></font></td></tr>
+    
+<tr><td bgcolor="#aa55cc"><tt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</tt></td><td>&nbsp;</td>
+<td width="100%"><table width="100%" summary="list"><tr><td width="25%" valign=top><a href="pandas.html">pandas</a><br>
+</td><td width="25%" valign=top></td><td width="25%" valign=top></td><td width="25%" valign=top></td></tr></table></td></tr></table><p>
+<table width="100%" cellspacing=0 cellpadding=2 border=0 summary="section">
+<tr bgcolor="#ee77aa">
+<td colspan=3 valign=bottom>&nbsp;<br>
+<font color="#ffffff" face="helvetica, arial"><big><strong>Classes</strong></big></font></td></tr>
+    
+<tr><td bgcolor="#ee77aa"><tt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</tt></td><td>&nbsp;</td>
+<td width="100%"><dl>
+<dt><font face="helvetica, arial"><a href="builtins.html#object">builtins.object</a>
+</font></dt><dd>
+<dl>
+<dt><font face="helvetica, arial"><a href="checking.html#Check">Check</a>
+</font></dt></dl>
+</dd>
+</dl>
+ <p>
+<table width="100%" cellspacing=0 cellpadding=2 border=0 summary="section">
+<tr bgcolor="#ffc8d8">
+<td colspan=3 valign=bottom>&nbsp;<br>
+<font color="#000000" face="helvetica, arial"><a name="Check">class <strong>Check</strong></a>(<a href="builtins.html#object">builtins.object</a>)</font></td></tr>
+    
+<tr><td bgcolor="#ffc8d8"><tt>&nbsp;&nbsp;&nbsp;</tt></td><td>&nbsp;</td>
+<td width="100%">Methods defined here:<br>
+<dl><dt><a name="Check-check_artist"><strong>check_artist</strong></a>(self, artist)</dt><dd><tt>This&nbsp;function&nbsp;controls&nbsp;if&nbsp;the&nbsp;input&nbsp;given<br>
+by&nbsp;the&nbsp;user&nbsp;(i.e.&nbsp;an&nbsp;artist's&nbsp;name')&nbsp;is&nbsp;present<br>
+in&nbsp;the&nbsp;artist&nbsp;column&nbsp;inside&nbsp;the&nbsp;csv&nbsp;file.<br>
+If&nbsp;you&nbsp;try&nbsp;with&nbsp;Claude&nbsp;Monet,&nbsp;it&nbsp;should<br>
+recognize&nbsp;that&nbsp;the&nbsp;artist&nbsp;is&nbsp;already&nbsp;present<br>
+in&nbsp;the&nbsp;original&nbsp;csv&nbsp;file.<br>
+If&nbsp;you&nbsp;try&nbsp;with&nbsp;"Bansky"&nbsp;(unless&nbsp;you&nbsp;have&nbsp;added<br>
+it&nbsp;with&nbsp;the&nbsp;"inserter&nbsp;function")&nbsp;the<br>
+function&nbsp;should&nbsp;return&nbsp;that&nbsp;the&nbsp;artist&nbsp;is&nbsp;not<br>
+present&nbsp;in&nbsp;the&nbsp;file.</tt></dd></dl>
+
+<dl><dt><a name="Check-check_paintings"><strong>check_paintings</strong></a>(self, painting)</dt><dd><tt>This&nbsp;function&nbsp;controls&nbsp;if&nbsp;the&nbsp;input&nbsp;given<br>
+by&nbsp;the&nbsp;user&nbsp;(i.e.&nbsp;a&nbsp;painting)&nbsp;is&nbsp;present<br>
+in&nbsp;the&nbsp;artwork&nbsp;column&nbsp;inside&nbsp;the&nbsp;csv&nbsp;file.<br>
+If&nbsp;you&nbsp;try&nbsp;with&nbsp;"There&nbsp;is&nbsp;always&nbsp;hope",&nbsp;the&nbsp;most<br>
+famous&nbsp;Bansky&nbsp;work&nbsp;(unless&nbsp;you&nbsp;have&nbsp;added<br>
+it&nbsp;with&nbsp;the&nbsp;"inserter&nbsp;function")&nbsp;the<br>
+function&nbsp;should&nbsp;return&nbsp;that&nbsp;the&nbsp;painting&nbsp;is&nbsp;not<br>
+present&nbsp;in&nbsp;the&nbsp;file.</tt></dd></dl>
+
+<hr>
+Data descriptors defined here:<br>
+<dl><dt><strong>__dict__</strong></dt>
+<dd><tt>dictionary&nbsp;for&nbsp;instance&nbsp;variables&nbsp;(if&nbsp;defined)</tt></dd>
+</dl>
+<dl><dt><strong>__weakref__</strong></dt>
+<dd><tt>list&nbsp;of&nbsp;weak&nbsp;references&nbsp;to&nbsp;the&nbsp;object&nbsp;(if&nbsp;defined)</tt></dd>
+</dl>
+</td></tr></table></td></tr></table>
+</body></html>

@@ -1,0 +1,51 @@
+v,Name,Life,Artwork,Year,Museum,Genre,Nationality,Paintings,wikipedia
+0,Amedeo Modigliani,1884 - 1920,Reclining Nude,1917,Metropolitan Museum of Art - New York City,Expressionism,Italian,193,http://en.wikipedia.org/wiki/Amedeo_Modigliani
+1,Vasiliy Kandinskiy,1866 - 1944,Composition VII,1913,Galleria Tret'jakov - Moscow,Expressionism - Abstractionism,Russian,88,http://en.wikipedia.org/wiki/Wassily_Kandinsky
+2,Diego Rivera,1886 - 1957,Street in Avila,1908,Museo Nacional de Arte - Ciudad del México,Social Realism - Muralism,Mexican,70,http://en.wikipedia.org/wiki/Diego_Rivera
+3,Claude Monet,1840 - 1926,"Impression, Sunrise",1872,Musée Marmottan Monet - Paris,Impressionism,French,73,http://en.wikipedia.org/wiki/Claude_Monet
+4,Rene Magritte,1898 - 1967,The Treachery of Images,1929,Los Angeles County Museum of Art - Los Angeles,Surrealism - Impressionism,Belgian,194,http://en.wikipedia.org/wiki/René_Magritte
+5,Salvador Dali,1904 - 1989,The persistence of memory,1931, Museum of Modern Art - New York,Surrealism,Spanish,139,http://en.wikipedia.org/wiki/Salvador_Dalí
+6,Edouard Manet,1832 - 1883,The Luncheon on the Grass,1863,Museo d'Orsay - Paris,Realism - Impressionism,French,90,http://en.wikipedia.org/wiki/Édouard_Manet
+7,Andrei Rublev,1360 - 1430,Trinity,1410,Tretyakov Gallery - Moscow,Byzantine Art,Russian,99,http://en.wikipedia.org/wiki/Andrei_Rublev
+8,Vincent van Gogh,1853 – 1890,The Starry Night,1889,Museum of Modern Art - New York,Post-Impressionism,Dutch,877,http://en.wikipedia.org/wiki/Vincent_van_Gogh
+9,Gustav Klimt,1862 - 1918,The Kiss,1908,Österreichische Galerie Belvedere - Vienna,Symbolism - Art Nouveau,Austrian,117,http://en.wikipedia.org/wiki/Gustav_Klimt
+10,Hieronymus Bosch,1450 - 1516,The Garden of Earthly Delights,1500-1505,Museo del Prado - Madrid,Northern Renaissance,Dutch,137,http://en.wikipedia.org/wiki/Hieronymus_Bosch
+11,Kazimir Malevich,1879 - 1935,Black Square,1915,Tretyakov Gallery - Moscow,Suprematism,Russian,126,http://en.wikipedia.org/wiki/Kazimir_Malevich
+12,Mikhail Vrubel,1856 - 1910,The Demon Seated,1890,Tretyakov Gallery - Moscow,Symbolism,Russian,171,http://en.wikipedia.org/wiki/Mikhail_Vrubel
+13,Pablo Picasso,1881 - 1973,Guernica,1937,Museo Nacional Centro de Arte Reina Sofía - Madrid,Cubism,Spanish,439,http://en.wikipedia.org/wiki/Pablo_Picasso
+14,Peter Paul Rubens,1577 - 1640,The Massacre of the Innocents,1611-1612,"Art Gallery, Ontario - Toronto",Baroque,Flemish,141,http://en.wikipedia.org/wiki/Peter_Paul_Rubens
+15,Pierre-Auguste Renoir,1841 - 1919,Bal du moulin de la Galette,1876,Musée d'Orsay - Paris,Impressionism,French,336,http://en.wikipedia.org/wiki/Pierre-Auguste_Renoir
+16,Francisco Goya,1746 - 1828,The nuda maja,1797-1800,Museo del Prado - Madrid,Romanticism,Spanish,291,http://en.wikipedia.org/wiki/Francisco_Goya
+17,Frida Kahlo,1907 - 1954,Self-potrait with thorn necklace and hummingbird,1940,Harry Ransom Center - Austin,Primitivism - Surrealism,Mexican,120,http://en.wikipedia.org/wiki/Frida_Kahlo
+18,El Greco,1541 - 1614,Dormition of the Virgin,1567,Holy Cathedral of the Dormition of the Virgin - Hermoupolis,Mannerism,Spanish - Greek,87,http://en.wikipedia.org/wiki/El_Greco
+19,Albrecht Dürer,1471 - 1528,Self-potrait,1500,Alte Pinakothek - Munich,Northern Renaissance,German,328,http://en.wikipedia.org/wiki/Albrecht_Dürer
+20,Alfred Sisley,1839 - 1899,Snow at Louveciennes,1875,Musée d'Orsay - Paris,Impressionism,French - British,259,http://en.wikipedia.org/wiki/Alfred_Sisley
+21,Pieter Bruegel,1525 - 1569,Landscape with the Fall of Icarus,1558,The Royal Museum of Fine Arts - Brussels,Northern Renaissance,Flemish,134,http://en.wikipedia.org/wiki/Pieter_Bruegel_the_Elder
+22,Marc Chagall,1887 - 1985,The Promenade,1918,State museum of saint petersburg - Saint Petersburg,Primitivism,French - Jewish - Belarusian,239,http://en.wikipedia.org/wiki/Marc_Chagall
+23,Giotto di Bondone,1266 - 1337,Ognissanti Madonna,1310,Ognissanti Church - Florence,Proto Renaissance,Italian,119,http://en.wikipedia.org/wiki/Giotto_di_Bondone
+24,Sandro Botticelli,1445 - 1510,The Birth of Venus,1485, Uffizi Gallery - Florence,Early Renaissance,Italian,164,http://en.wikipedia.org/wiki/Sandro_Botticelli
+25,Caravaggio,1571 - 1610,The Incredulity of Saint Thomas,1601–1602,Bildergalerie - Potsdam,Baroque,Italian,55,http://en.wikipedia.org/wiki/Caravaggio
+26,Leonardo da Vinci,1452 - 1519,Gioconda,1503,Louvre Museum - Paris,High Renaissance,Italian,143,http://en.wikipedia.org/wiki/Leonardo_da_Vinci
+27,Diego Velazquez,1599 - 1660,Las Meninas,1656,Museo del Prado - Madrid,Baroque,Spanish,128,http://en.wikipedia.org/wiki/Diego_Velázquez
+28,Henri Matisse,1869 - 1954,Dance,1912,Ermitage - Museum of Modern Art,Impressionism - Post-Impressionism,French,186,http://en.wikipedia.org/wiki/Henri_Matisse
+29,Jan van Eyck,1395 - 1441,Portrait of man with red turban,1433,Royal Museums of Fine Arts of Belgium - Bruxelles,Northern Renaissance,Flemish,81,http://en.wikipedia.org/wiki/Jan_van_Eyck
+30,Edgar Degas,1834 - 1917,The dance class,1871–1874,Musee d'Orsay - Paris,Impressionism,French,702,http://en.wikipedia.org/wiki/Edgar_Degas
+31,Rembrandt,1606 - 1669,Christ in the storm on the Sea of ​​Galilee,1633,Isabella Stewart-Gardner Museum - Boston,Baroque,Dutch,262,http://en.wikipedia.org/wiki/Rembrandt
+32,Titian,1488 - 1576,Assumption of the Virgin,1515-1518,Basilica S.Maria Gloriosa dei Frari - Venice,High Renaissance - Mannerism,Italian,255,http://en.wikipedia.org/wiki/Titian
+33,Henri de Toulouse-Lautrec,1864 – 1901,At the Moulin Rouge,1890,Art Institute - Chicago,Post-Impressionism,French,81,https://en.wikipedia.org/wiki/Henri_de_Toulouse-Lautrec
+34,Gustave Courbet,1819 - 1877,The Stone Breakers,1849,Destroyed during World War II,Realism,French,59,https://en.wikipedia.org/wiki/Gustave_Courbet
+35,Camille Pissarro,1830 - 1903,"Boulevard Montmartre, Effet de nuit",1897,National Gallery - London,Impressionism - Post-Impressionism,French,91,https://en.wikipedia.org/wiki/Camille_Pissarro
+36,William Turner,1775 - 1851,The fighting temeraire,1839,National Gallery - London,Romanticism,British,66,https://en.wikipedia.org/wiki/J._M._W._Turner
+37,Edvard Munch,1863 - 1944,The Scream,1893,National Gallery and Munch Museum - Oslo,Symbolism - Expressionism,Norwegian,67,https://en.wikipedia.org/wiki/Edvard_Munch
+38,Paul Cezanne,1839 – 1906,Mont Sainte-Victoire seen from Bellevue,1895,Barnes Foundation - Pennsylvania,Post-Impressionism,French,47,https://en.wikipedia.org/wiki/Paul_Cézanne
+39,Eugene Delacroix,1798 – 1863,La Liberté guidant le peuple,1830,Louvre Museum - Paris,Romanticism,French,31,https://en.wikipedia.org/wiki/Eugène_Delacroix
+40,Henri Rousseau,1844 – 1910,The Sleeping Gypsy,1897,Museum of Modern Art - New York,Primitivism,French,70,https://en.wikipedia.org/wiki/Henri_Rousseau
+41,Georges Seurat,1859 – 1891,Un dimanche après-midi à l'Île de la Grande Jatte,1883-1885,Art Institute of Chicago - Chicago,Post-Impressionism,French,43,https://en.wikipedia.org/wiki/Georges_Seurat
+42,Paul Klee,1879 – 1940,Red Balloon,1922,The Guggenheim - New York,Expressionism - Abstractionism - Surrealism,German - Swiss,188,https://en.wikipedia.org/wiki/Paul_Klee
+43,Piet Mondrian,1872 – 1944,Broadway Boogie-Woogie,1942-1943, Museum of Modern Art - New York,Neoplasticism,Dutch,84,https://en.wikipedia.org/wiki/Piet_Mondrian
+44,Joan Miro,1893 – 1983,The Harlequin's Carnival,1924-1925, Albright–Knox Art Gallery - Buffalo,Surrealism,Spanish,102,https://en.wikipedia.org/wiki/Joan_Miró
+45,Andy Warhol,1928 – 1987,The Marilyn Diptych,1962,Tate Modern - London,Pop Art,American,181,https://en.wikipedia.org/wiki/Andy_Warhol
+46,Paul Gauguin,1848 – 1903,The Yellow Christ,1889,The Albright-Knox Art Gallery - Buffalo,Symbolism - Post-Impressionism,French,311,http://en.wikipedia.org/wiki/Paul_Gauguin
+47,Raphael,1483 – 1520,The School of Athens,1509 -1511,The Apostolic Palace - Vatican City,High Renaissance,Italian,109,https://en.wikipedia.org/wiki/Raphael
+48,Michelangelo,1475 – 1564,The Pietà,1497-1499, St. Peter's Basilica - Vatican City,High Renaissance,Italian,49,https://en.wikipedia.org/wiki/Michelangelo
+49,Jackson Pollock,1912 – 1956,Blue Poles,1953, National Gallery of Australia - Canberra,Abstract Expressionism,American,24,http://en.wikipedia.org/wiki/Jackson_Pollock

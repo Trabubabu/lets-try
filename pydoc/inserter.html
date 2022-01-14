@@ -1,0 +1,61 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><head><title>Python: module inserter</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head><body bgcolor="#f0f0f8">
+
+<table width="100%" cellspacing=0 cellpadding=2 border=0 summary="heading">
+<tr bgcolor="#7799ee">
+<td valign=bottom>&nbsp;<br>
+<font color="#ffffff" face="helvetica, arial">&nbsp;<br><big><big><strong>inserter</strong></big></big></font></td
+><td align=right valign=bottom
+><font color="#ffffff" face="helvetica, arial"><a href=".">index</a><br><a href="file:/Users/vittorialazzer/Desktop/Art/inserter.py">/Users/vittorialazzer/Desktop/Art/inserter.py</a></font></td></tr></table>
+    <p><tt>The&nbsp;function&nbsp;of&nbsp;the&nbsp;inserter&nbsp;module<br>
+allows&nbsp;to&nbsp;append&nbsp;new&nbsp;artists&nbsp;with&nbsp;relative<br>
+most&nbsp;famous&nbsp;painting&nbsp;into&nbsp;our&nbsp;database.<br>
+The&nbsp;function&nbsp;first&nbsp;checks&nbsp;if&nbsp;the&nbsp;input<br>
+the&nbsp;user&nbsp;wants&nbsp;to&nbsp;insert&nbsp;is&nbsp;already&nbsp;present&nbsp;in<br>
+the&nbsp;database,&nbsp;if&nbsp;not&nbsp;it&nbsp;asks&nbsp;if&nbsp;the&nbsp;inserted<br>
+value&nbsp;is&nbsp;the&nbsp;name&nbsp;of&nbsp;an&nbsp;artist<br>
+or&nbsp;painting.<br>
+After&nbsp;that&nbsp;it&nbsp;requires&nbsp;to&nbsp;add&nbsp;all&nbsp;the<br>
+other&nbsp;additional&nbsp;information,&nbsp;to&nbsp;generate<br>
+a&nbsp;list&nbsp;of&nbsp;10&nbsp;items.<br>
+Finally&nbsp;the&nbsp;list&nbsp;is&nbsp;inserted&nbsp;in&nbsp;a&nbsp;new<br>
+row&nbsp;becoming&nbsp;part<br>
+of&nbsp;our&nbsp;database.</tt></p>
+<p>
+<table width="100%" cellspacing=0 cellpadding=2 border=0 summary="section">
+<tr bgcolor="#aa55cc">
+<td colspan=3 valign=bottom>&nbsp;<br>
+<font color="#ffffff" face="helvetica, arial"><big><strong>Modules</strong></big></font></td></tr>
+    
+<tr><td bgcolor="#aa55cc"><tt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</tt></td><td>&nbsp;</td>
+<td width="100%"><table width="100%" summary="list"><tr><td width="25%" valign=top><a href="csv.html">csv</a><br>
+</td><td width="25%" valign=top><a href="pandas.html">pandas</a><br>
+</td><td width="25%" valign=top></td><td width="25%" valign=top></td></tr></table></td></tr></table><p>
+<table width="100%" cellspacing=0 cellpadding=2 border=0 summary="section">
+<tr bgcolor="#eeaa77">
+<td colspan=3 valign=bottom>&nbsp;<br>
+<font color="#ffffff" face="helvetica, arial"><big><strong>Functions</strong></big></font></td></tr>
+    
+<tr><td bgcolor="#eeaa77"><tt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</tt></td><td>&nbsp;</td>
+<td width="100%"><dl><dt><a name="-add_element"><strong>add_element</strong></a>(a_or_p, response='')</dt><dd><tt>This&nbsp;function&nbsp;comes&nbsp;into&nbsp;play&nbsp;once&nbsp;the&nbsp;user&nbsp;inputs&nbsp;a&nbsp;value<br>
+that&nbsp;is&nbsp;not&nbsp;inside&nbsp;the&nbsp;database,&nbsp;or&nbsp;when,&nbsp;after<br>
+the&nbsp;input,&nbsp;the&nbsp;user&nbsp;writes&nbsp;the&nbsp;optional&nbsp;argument&nbsp;-a.<br>
+It&nbsp;asks&nbsp;if&nbsp;the&nbsp;input&nbsp;is&nbsp;a&nbsp;name&nbsp;of&nbsp;an&nbsp;artist&nbsp;or&nbsp;a&nbsp;painting,<br>
+then&nbsp;it&nbsp;asks&nbsp;for&nbsp;the&nbsp;remaining&nbsp;values&nbsp;to&nbsp;insert&nbsp;in&nbsp;all&nbsp;the&nbsp;10&nbsp;columns<br>
+of&nbsp;the&nbsp;database.</tt></dd></dl>
+ <dl><dt><a name="-writer"><strong>writer</strong></a>(...)</dt><dd><tt>csv_writer&nbsp;=&nbsp;csv.<a href="#-writer">writer</a>(fileobj&nbsp;[,&nbsp;dialect='excel']<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[optional&nbsp;keyword&nbsp;args])<br>
+&nbsp;&nbsp;&nbsp;&nbsp;for&nbsp;row&nbsp;in&nbsp;sequence:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;csv_writer.writerow(row)<br>
+&nbsp;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;[or]<br>
+&nbsp;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;csv_writer&nbsp;=&nbsp;csv.<a href="#-writer">writer</a>(fileobj&nbsp;[,&nbsp;dialect='excel']<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[optional&nbsp;keyword&nbsp;args])<br>
+&nbsp;&nbsp;&nbsp;&nbsp;csv_writer.writerows(rows)<br>
+&nbsp;<br>
+The&nbsp;"fileobj"&nbsp;argument&nbsp;can&nbsp;be&nbsp;any&nbsp;object&nbsp;that&nbsp;supports&nbsp;the&nbsp;file&nbsp;API.</tt></dd></dl>
+</td></tr></table>
+</body></html>
